@@ -1,0 +1,24 @@
+.blogPost h1{
+    color: #6EEB83;
+    font-family:'DM Serif Display', 'Inter';
+    font-weight: 100;
+}
+
+
+.blogPostText::first-letter{
+    font-size: 3.5rem;
+}
+
+.writerInfo{
+    display: flex;
+    flex-direction: column;
+    font-weight: 200;
+    font-size: 1.1rem;
+}
+.blogPostText{
+    color: #ffffff;
+}
+
+.blogPost{
+    margin: 70px 20% 10px 10%;
+}
